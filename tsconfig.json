@@ -20,7 +20,10 @@
     "isolatedModules": true,
     "baseUrl": "./src",
     "rootDir": "src",
-    "lib": ["ESNext"],
+    "lib": [
+      "ESNext",
+      "dom"
+    ]
   },
   "include": ["src", "@types"],
   "exclude": [
