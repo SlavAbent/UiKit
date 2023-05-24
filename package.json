@@ -1,7 +1,6 @@
 {
-  "name": "uikit",
-  "version": "0.1.0",
-  "private": true,
+  "name": "astoe1-uikit",
+  "version": "0.0.1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -64,5 +63,21 @@
     "storybook-addon-styled-component-theme": "^2.0.0",
     "styled-components.macro": "^1.0.0",
     "webpack": "^5.83.1"
-  }
+  },
+  "description": "UI Kit",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavAbent/UiKit.git).git"
+  },
+  "keywords": [
+    "uikit",
+    "frontend"
+  ],
+  "author": "astoe1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlavAbent/UiKit.git)/issues"
+  },
+  "homepage": "https://github.com/SlavAbent/UiKit.git)#readme"
 }
